@@ -1,0 +1,21 @@
+div {
+    /* Rectangle 71 */
+   display: flex; 
+   width: 216px;
+   height: 68px;
+   left: 740px;
+   margin-top: 20%;
+   
+   /* Gray 1 */
+   background: #333333;
+}
+
+button {
+    margin-top: 10%;
+    margin-left: 15%;
+    height: 40%;
+    width: 69%;
+    background-color: #333;
+    border: none;
+    color: white;
+}

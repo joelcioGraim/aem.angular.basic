@@ -25,3 +25,85 @@ p,
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
   color: #000000;
 }
+
+/*.div-button-style {
+  width: 100%;
+  margin-top: 1em;
+
+  font-family: 'Space Mono';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 95px;
+  letter-spacing: -0.035em;
+
+  color: #333333;  
+}
+
+.button-style {
+  margin-top: 10%;
+  margin-left: 15%;
+  height: 40%;
+  width: 69%;
+  background-color: #333;
+  border: none;
+  color: white;
+}
+
+
+.space-bottom {
+
+  width: 133px;
+  height: 25px;
+  left: 77px;
+  top: 40px;
+
+  font-family: 'Inconsolata';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 17px;
+  line-height: 25px;
+  letter-spacing: -0.08em;
+  text-transform: uppercase;
+
+  color: #333333;
+}
+*/
+
+.text-format-1 {
+  /* I have bad news for you */
+  display: flex; 
+  width: 586px;
+  height: 190px;
+  left: 735px;
+  /*top: 265px;*/
+
+  font-family: 'Space Mono';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 60px;
+  line-height: 95px;
+  letter-spacing: -0.035em;
+
+  /* Gray 1 */
+  color: #333333;
+}
+
+.text-format-2 {
+  /* The page you are looking for might be removed or is temporarily unavailable */
+  display: flex; 
+  width: 381px;
+  height: 108px;
+  left: 736px;
+  margin-top: 9%;
+
+  font-family: 'Space Mono' !important;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 36px;
+  letter-spacing: -0.035em;
+
+  /* Gray 2 */
+  color: #4F4F4F;
+}
