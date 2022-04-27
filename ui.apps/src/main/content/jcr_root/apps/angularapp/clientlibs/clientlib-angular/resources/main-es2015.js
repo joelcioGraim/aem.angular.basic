@@ -45,7 +45,7 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = ("<div>\n <button>BACK TO HOMEPAGE</button>\n</div>\n");
+/* harmony default export */ __webpack_exports__["default"] = ("\n");
 
 /***/ }),
 
@@ -270,7 +270,7 @@ AppModule = Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"])([
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = ("div {\r\n    /* Rectangle 71 */\r\n   display: flex; \r\n   width: 216px;\r\n   height: 68px;\r\n   left: 740px;\r\n   margin-top: 20%;\r\n   \r\n   /* Gray 1 */\r\n   background: #333333;\r\n}\r\n\r\nbutton {\r\n    margin-top: 10%;\r\n    margin-left: 15%;\r\n    height: 40%;\r\n    width: 69%;\r\n    background-color: #333;\r\n    border: none;\r\n    color: white;\r\n}\r\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvY29tcG9uZW50cy9idXR0b24vYnV0dG9uLmNvbXBvbmVudC5jc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7SUFDSSxpQkFBaUI7R0FDbEIsYUFBYTtHQUNiLFlBQVk7R0FDWixZQUFZO0dBQ1osV0FBVztHQUNYLGVBQWU7O0dBRWYsV0FBVztHQUNYLG1CQUFtQjtBQUN0Qjs7QUFFQTtJQUNJLGVBQWU7SUFDZixnQkFBZ0I7SUFDaEIsV0FBVztJQUNYLFVBQVU7SUFDVixzQkFBc0I7SUFDdEIsWUFBWTtJQUNaLFlBQVk7QUFDaEIiLCJmaWxlIjoic3JjL2FwcC9jb21wb25lbnRzL2J1dHRvbi9idXR0b24uY29tcG9uZW50LmNzcyIsInNvdXJjZXNDb250ZW50IjpbImRpdiB7XHJcbiAgICAvKiBSZWN0YW5nbGUgNzEgKi9cclxuICAgZGlzcGxheTogZmxleDsgXHJcbiAgIHdpZHRoOiAyMTZweDtcclxuICAgaGVpZ2h0OiA2OHB4O1xyXG4gICBsZWZ0OiA3NDBweDtcclxuICAgbWFyZ2luLXRvcDogMjAlO1xyXG4gICBcclxuICAgLyogR3JheSAxICovXHJcbiAgIGJhY2tncm91bmQ6ICMzMzMzMzM7XHJcbn1cclxuXHJcbmJ1dHRvbiB7XHJcbiAgICBtYXJnaW4tdG9wOiAxMCU7XHJcbiAgICBtYXJnaW4tbGVmdDogMTUlO1xyXG4gICAgaGVpZ2h0OiA0MCU7XHJcbiAgICB3aWR0aDogNjklO1xyXG4gICAgYmFja2dyb3VuZC1jb2xvcjogIzMzMztcclxuICAgIGJvcmRlcjogbm9uZTtcclxuICAgIGNvbG9yOiB3aGl0ZTtcclxufSJdfQ== */");
+/* harmony default export */ __webpack_exports__["default"] = ("div {\r\n    /* Rectangle 71 */\r\n   display: flex; \r\n   width: 216px;\r\n   height: 68px;\r\n   left: 740px;\r\n   margin-top: 10%;\r\n   margin-bottom: 15%;\r\n   \r\n   /* Gray 1 */\r\n   background: #333333;\r\n}\r\n\r\nbutton {\r\n    margin-top: 10%;\r\n    margin-left: 15%;\r\n    height: 40%;\r\n    width: 69%;\r\n    background-color: #333;\r\n    border: none;\r\n    color: white;\r\n}\r\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvY29tcG9uZW50cy9idXR0b24vYnV0dG9uLmNvbXBvbmVudC5jc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7SUFDSSxpQkFBaUI7R0FDbEIsYUFBYTtHQUNiLFlBQVk7R0FDWixZQUFZO0dBQ1osV0FBVztHQUNYLGVBQWU7R0FDZixrQkFBa0I7O0dBRWxCLFdBQVc7R0FDWCxtQkFBbUI7QUFDdEI7O0FBRUE7SUFDSSxlQUFlO0lBQ2YsZ0JBQWdCO0lBQ2hCLFdBQVc7SUFDWCxVQUFVO0lBQ1Ysc0JBQXNCO0lBQ3RCLFlBQVk7SUFDWixZQUFZO0FBQ2hCIiwiZmlsZSI6InNyYy9hcHAvY29tcG9uZW50cy9idXR0b24vYnV0dG9uLmNvbXBvbmVudC5jc3MiLCJzb3VyY2VzQ29udGVudCI6WyJkaXYge1xyXG4gICAgLyogUmVjdGFuZ2xlIDcxICovXHJcbiAgIGRpc3BsYXk6IGZsZXg7IFxyXG4gICB3aWR0aDogMjE2cHg7XHJcbiAgIGhlaWdodDogNjhweDtcclxuICAgbGVmdDogNzQwcHg7XHJcbiAgIG1hcmdpbi10b3A6IDEwJTtcclxuICAgbWFyZ2luLWJvdHRvbTogMTUlO1xyXG4gICBcclxuICAgLyogR3JheSAxICovXHJcbiAgIGJhY2tncm91bmQ6ICMzMzMzMzM7XHJcbn1cclxuXHJcbmJ1dHRvbiB7XHJcbiAgICBtYXJnaW4tdG9wOiAxMCU7XHJcbiAgICBtYXJnaW4tbGVmdDogMTUlO1xyXG4gICAgaGVpZ2h0OiA0MCU7XHJcbiAgICB3aWR0aDogNjklO1xyXG4gICAgYmFja2dyb3VuZC1jb2xvcjogIzMzMztcclxuICAgIGJvcmRlcjogbm9uZTtcclxuICAgIGNvbG9yOiB3aGl0ZTtcclxufSJdfQ== */");
 
 /***/ }),
 

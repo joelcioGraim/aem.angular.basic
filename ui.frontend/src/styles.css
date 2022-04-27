@@ -1,4 +1,5 @@
 /* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@700&family=Montserrat:wght@500&family=Space+Mono:wght@400;700&display=swap');
 
 html,
 body {
@@ -22,53 +23,17 @@ h5,
 p,
 .nav-container,
 .rw-box {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
   color: #000000;
 }
 
-/*.div-button-style {
-  width: 100%;
-  margin-top: 1em;
-
-  font-family: 'Space Mono';
-  font-style: normal;
-  font-weight: 700;
-  font-size: 64px;
-  line-height: 95px;
-  letter-spacing: -0.035em;
-
-  color: #333333;  
+.cmp-image__image {
+  width: 80%;
 }
 
-.button-style {
-  margin-top: 10%;
-  margin-left: 15%;
-  height: 40%;
-  width: 69%;
-  background-color: #333;
-  border: none;
-  color: white;
+.cmp-title__text {
+  margin-bottom: 7%;
+  font-size: 24px;
 }
-
-
-.space-bottom {
-
-  width: 133px;
-  height: 25px;
-  left: 77px;
-  top: 40px;
-
-  font-family: 'Inconsolata';
-  font-style: normal;
-  font-weight: 700;
-  font-size: 17px;
-  line-height: 25px;
-  letter-spacing: -0.08em;
-  text-transform: uppercase;
-
-  color: #333333;
-}
-*/
 
 .text-format-1 {
   /* I have bad news for you */
@@ -76,13 +41,13 @@ p,
   width: 586px;
   height: 190px;
   left: 735px;
-  /*top: 265px;*/
+  margin-left: 5px; 
 
   font-family: 'Space Mono';
   font-style: normal;
   font-weight: 700;
-  font-size: 60px;
-  line-height: 95px;
+  font-size: 45px;
+  line-height: 70px;
   letter-spacing: -0.035em;
 
   /* Gray 1 */
@@ -95,12 +60,13 @@ p,
   width: 381px;
   height: 108px;
   left: 736px;
-  margin-top: 9%;
+  margin-top: 1%;
+  margin-left: 5px;  
 
   font-family: 'Space Mono' !important;
   font-style: normal;
   font-weight: 400;
-  font-size: 24px;
+  font-size: 18px;
   line-height: 36px;
   letter-spacing: -0.035em;
 
