@@ -71,7 +71,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "<div>\n <button>BACK TO HOMEPAGE</button>\n</div>\n";
+    __webpack_exports__["default"] = "<div>\n <button>{{ text }}</button>\n</div>\n";
     /***/
   },
 
@@ -519,6 +519,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       return ButtonComponent;
     }();
 
+    Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"])([Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Input"])()], ButtonComponent.prototype, "text", void 0);
     ButtonComponent = Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"])([Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
       selector: 'app-button',
       template: Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"])(__webpack_require__(

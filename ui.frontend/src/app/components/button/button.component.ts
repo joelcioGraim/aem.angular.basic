@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, Input, OnInit } from '@angular/core';
 import { MapTo } from '@adobe/aem-angular-editable-components';
 
 @Component({
@@ -7,8 +7,9 @@ import { MapTo } from '@adobe/aem-angular-editable-components';
   styleUrls: ['./button.component.css']
 })
 export class ButtonComponent implements OnInit {
+  @Input() text:string;  
 
-  constructor() { }
+  constructor() {}
 
   ngOnInit(): void {
   }

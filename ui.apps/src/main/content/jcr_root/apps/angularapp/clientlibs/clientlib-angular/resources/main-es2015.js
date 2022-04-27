@@ -45,7 +45,7 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = ("<div>\n <button>BACK TO HOMEPAGE</button>\n</div>\n");
+/* harmony default export */ __webpack_exports__["default"] = ("<div>\n <button>{{ text }}</button>\n</div>\n");
 
 /***/ }),
 
@@ -295,6 +295,9 @@ let ButtonComponent = class ButtonComponent {
     ngOnInit() {
     }
 };
+Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"])([
+    Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Input"])()
+], ButtonComponent.prototype, "text", void 0);
 ButtonComponent = Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"])([
     Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
         selector: 'app-button',
